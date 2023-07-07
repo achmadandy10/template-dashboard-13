@@ -1,0 +1,14 @@
+.next
+.vscode
+.swc
+coverage
+__tests__
+next-env.d.ts
+next.config.js
+commitlint.config.js
+jest.config.js
+jest.setup.js
+node_modules
+yarn.lock
+package-lock.json
+public
